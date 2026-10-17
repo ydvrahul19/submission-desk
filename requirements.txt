@@ -1,0 +1,8 @@
+streamlit>=1.35
+pypdf>=4.0
+python-docx>=1.1
+openpyxl>=3.1
+anthropic>=0.40      # optional: only if LLM_PROVIDER=anthropic
+reportlab>=4.0       # only for samples/make_samples.py
+pytest>=8.0
+python-dotenv>=1.0
